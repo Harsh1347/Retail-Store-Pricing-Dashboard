@@ -1,6 +1,6 @@
 # 📊 Power BI Dashboard: Retail Revenue & Profit Analysis for Price Optimization
 
-Link to dashboard: https://app.powerbi.com/view?r=eyJrIjoiNDJiMjU5YWMtYTg1YS00NGZjLTkzNTEtM2Q5MjEyZTgwZmRmIiwidCI6IjExMTNiZTM0LWFlZDEtNGQwMC1hYjRiLWNkZDAyNTEwYmU5MSIsImMiOjN9&pageName=68cb660dfea967b33aa2
+![Link to dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDJiMjU5YWMtYTg1YS00NGZjLTkzNTEtM2Q5MjEyZTgwZmRmIiwidCI6IjExMTNiZTM0LWFlZDEtNGQwMC1hYjRiLWNkZDAyNTEwYmU5MSIsImMiOjN9&pageName=68cb660dfea967b33aa2)
 
 ## 🔍 Project Overview
 
