@@ -29,17 +29,25 @@ The underlying dataset represents transaction data from **Maven Toys**, a fictio
 - **$14.3M** Total Revenue
 - **$3.83M** Total Profit
 
+![Overview](https://github.com/Harsh1347/Retail-Store-Pricing-Dashboard/blob/main/images/overview.png)
+
 ### 🌍 City-Level Insights
 - Top cities by revenue: **Ciudad de Mexico**, **Guadalajara**, **Monterrey**.
 - Interactive maps highlighting geographic performance differences.
+
+![City Level](https://github.com/Harsh1347/Retail-Store-Pricing-Dashboard/blob/main/images/city.png)
 
 ### 🛍️ Category & Product Breakdown
 - Revenue split across categories: **Toys**, **Art & Crafts**, **Electronics**, **Games**, **Sports & Outdoors**.
 - Top 10 products by revenue and profit (e.g., *Lego Bricks*, *Colorbuds*, *Action Figures*).
 
-### 📅 Time-Series Analysis
+![Store Level](https://github.com/Harsh1347/Retail-Store-Pricing-Dashboard/blob/main/images/store.png)
+
+### 📅 Product Time-Series Analysis
 - Monthly trends in revenue, profit, and average price.
 - Units sold and price changes tracked across time.
+
+![Product Level](https://github.com/Harsh1347/Retail-Store-Pricing-Dashboard/blob/main/images/product.png)
 
 ### 🧩 Store Performance
 - Individual dashboards for stores (e.g., *Maven Toys Aguascalientes*), showcasing local revenue, profit, and sales.
